@@ -1,4 +1,4 @@
-# Clonal Complex Identification Script
+# Clonal Complex Identification
 
 This repository contains a Python script for identifying clonal complexes in microbial strain data based on allele profiles. The script reads data from a CSV file, groups similar strains into clonal complexes based on a configurable similarity threshold, and outputs the results to a new CSV file.
 
