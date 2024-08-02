@@ -63,9 +63,9 @@ Example CSV format:
 
 ```csv
 St,gen1,gene1,gene2,gene3,gene4,gene5,gene6,gene7
-ST1,78,45,23,12,34,56,78,90
-ST2,78,44,23,12,34,56,78,91
-ST3,79,45,24,13,35,57,79,92
+10,adk(10),fumC(11),gyrB(4),icd(8),mdh(8),purA(8),recA(2)
+131,adk(53),fumC(40),gyrB(47),icd(13),mdh(36),purA(28),recA(29)
+361,adk(10),fumC(99),gyrB(5),icd(91),mdh(8),purA(7),recA(2)
 ...
 ```
 
