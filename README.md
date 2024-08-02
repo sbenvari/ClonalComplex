@@ -69,6 +69,11 @@ ST3,79,45,24,13,35,57,79,92
 ...
 ```
 
+**Imprtant** 
+
+Allels with `~` and `?` are considered the same as the base allele. For instance, `78~` and `78?` should be treated as `78`.
+
+
 ## Contact
 
 For questions or issues, please contact [sb474@st-andrews.ac.uk](mailto:sb474@st-andrews.ac.uk).
