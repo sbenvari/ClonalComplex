@@ -11,11 +11,11 @@ This repository contains a Python script for identifying clonal complexes in mic
 
 You can install the necessary packages using `pip`:
 
-pip install pandas
+```pip install pandas```
 
 ## Script Overview
 
-The main script, `clonal_complex_script.py`, performs the following tasks:
+The main script, `clonal_complex.py`, performs the following tasks:
 
 1. **Reads Input Data:** Reads strain data from a CSV file provided by the user.
 2. **Calculates Similarities:** Computes the number of matching alleles between strains.
@@ -26,13 +26,16 @@ The main script, `clonal_complex_script.py`, performs the following tasks:
 
 1. **Clone the Repository:**
 
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+```
+git clone https://github.com/sbenvari/ClonalComplex.git
+cd ClonalComplex
+```
 
-2. **Run the Script:**
+3. **Run the Script:**
 
-   python clonal_complex_script.py
-
+```
+python clonal_complex.py
+```
 3. **Provide Input and Configuration:**
 
    - When prompted, enter the path to the CSV file containing your data.
